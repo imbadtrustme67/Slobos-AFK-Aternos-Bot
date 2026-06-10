@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skibidi3667.aternos.me:39778",
-    "port": 27586,
+    "ip": "skibidi3667.aternos.me",
+    "port": 39778,
     "version": "",
     "try-creative": false
   },
