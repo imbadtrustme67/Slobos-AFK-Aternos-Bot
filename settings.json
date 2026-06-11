@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "sigmaboy",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "skibidi3667.aternos.me",
